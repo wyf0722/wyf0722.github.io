@@ -1,12 +1,12 @@
 logo:
-  avatar: "[{config.avatar}](/asset/images/avatar.png)"
+  avatar: "[{config.avatar}](/assets/images/avatar.png)"
   title: "[{config.title}](/)"
   subtitle: "{config.subtitle}"
 
 footer:
   social:
     github:
-      icon: '<img src="/assets/placeholder/social/08a41b181ce68.svg"/>'
+      icon: '<img src="/assets/images/github.svg"/>'
       url: https://github.com/wyf0722
     # music:
     #   icon: '<img src="/assets/placeholder/social/3845874.svg"/>'
