@@ -43,3 +43,16 @@ menubar:
       icon: solar:chat-square-like-bold-duotone
       title: 社交
       url: /friends/
+
+style:
+  text-align: justify
+  smooth_scroll: false
+  codeblock:
+    scrollbar: 0px
+  font-size:
+    body: 1rem
+  font-family:
+    logo: '"LXGW WenKai Screen", system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
+    body: '"LXGW WenKai Screen", system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
+    code: '"LXGW WenKai Screen", Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
+    codeblock: 'Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
