@@ -1,3 +1,8 @@
+logo:
+  avatar: "[{config.avatar}](/social/about/)"
+  title: "[{config.title}](/)"
+  subtitle: "{config.subtitle}"
+
 footer:
   social:
     github:
