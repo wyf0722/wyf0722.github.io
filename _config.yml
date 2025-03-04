@@ -22,7 +22,7 @@ repository               : "wyf0722/wyf0722.github.io"
 author:
   # Biographic information
   # avatar           : "wyf_profile.jpg"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png" # privacy
   name             : "Yifan Wu"
   pronouns         : # example: "she/her"  
   bio              : "a vegetable dog at NJU"
